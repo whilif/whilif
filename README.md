@@ -14,4 +14,9 @@ I'm Bhavitha and I am a junior student majoring in Business Administrating with 
 - Side projects!
 
 ## 👨‍💻 Tech Stack 
-<img src="https://skillicons.dev" alt="My Tech Stack" />
+![Java](https://img.shields.io/badge/Java-D32F2F?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1976D2?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FBC02D?style=for-the-badge&logo=mysql&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-EC407A?style=for-the-badge&logo=html5&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-2E7D32?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-F57C00?style=for-the-badge&logo=firebase&logoColor=white)
