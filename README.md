@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Aspiring business/data analyst/swe passionate about business, technology, and problem-solving.
+Aspiring business/data analyst and swe, passionate about business, technology, and problem-solving.
 
 I'm Bhavitha and I am a junior student majoring in Business Administration with a concentration in IT management. I also have dual minors in Computer Science (HCI) and Fintech. My passion is at the intersection of business and technology in roles such as data analytics, data science, business analytics. I am currently looking for a summer internship. 
 
