@@ -19,4 +19,8 @@ I'm Bhavitha and I am a junior student majoring in Business Administrating with 
 ![SQL](https://img.shields.io/badge/SQL-FBC02D?style=for-the-badge&logo=mysql&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-EC407A?style=for-the-badge&logo=html5&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-2E7D32?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+## 🔧 Tools
 ![Firebase](https://img.shields.io/badge/Firebase-F57C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-4FC3F7?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-5E35B1?style=for-the-badge&logo=git&logoColor=white)
